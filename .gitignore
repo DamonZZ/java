@@ -24,3 +24,5 @@ target/classes/com/damon/java/thread/TestThreadPool.class
 target/classes/com/damon/java/thread/TestThreadSync.class
 target/classes/com/damon/java/thread/TestWaitNotify.class
 target/test-classes/com/damon/AppTest.class
+*.class
+*.lst
