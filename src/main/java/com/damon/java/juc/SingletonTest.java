@@ -58,7 +58,7 @@ class LazyMan {
 // 3. static inner class
 class StaticInner {
 
-    public static class InnerClass {
+    private static class InnerClass {
         private static final StaticInner staticInner = new StaticInner();
     }
 
